@@ -1,0 +1,1 @@
+The journey to becoming an efficient and effective programmer with low level language skills begins

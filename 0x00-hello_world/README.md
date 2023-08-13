@@ -1,0 +1,1 @@
+The journey to become an effective and efficient C programmer begins
