@@ -1,1 +1,0 @@
-The following projects are on Functions and Nested Loops
