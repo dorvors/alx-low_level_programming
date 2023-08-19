@@ -1,0 +1,1 @@
+The projects in this directory are practice tasaks for Functions and Nested Loops in C
