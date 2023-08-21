@@ -1,0 +1,1 @@
+The projects in this directory are tests on the concepts of functions and nested loops in C.
