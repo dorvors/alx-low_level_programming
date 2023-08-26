@@ -1,0 +1,1 @@
+The files in this directory are solutions to problems on the concept of Pointers, Arrays and Strings in C programming.
