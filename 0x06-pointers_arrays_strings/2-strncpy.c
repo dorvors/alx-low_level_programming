@@ -2,7 +2,7 @@
 
 /**
  * _strncpy -  function copies a string.
- * @src: cadena a 
+ * @src: cadena a
  * @dest: destino de la cadena.
  * @n: number.
  * Return: void
