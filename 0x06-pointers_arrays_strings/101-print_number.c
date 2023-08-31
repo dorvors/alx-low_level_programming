@@ -7,7 +7,7 @@
  */
 int base10(int n)
 {
-	int base = 10;
+	int base = 1;
 
 	while (n > 0)
 	{
