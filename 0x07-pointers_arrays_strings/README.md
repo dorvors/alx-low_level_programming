@@ -1,0 +1,1 @@
+The projects in this directory are tasks on the concepts of pointers to pointers, multidimensional arrays and the most common C standard library functions to manipulate strings.
